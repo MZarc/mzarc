@@ -14,7 +14,7 @@ I build software for problems I can't stop thinking about.
 
 <br>
 
-<sub>online as <b>Zarc</b> · building as <b><MZarc</b></sub>
+<sub>online as <b>Zarc</b> · building as <b>MZarc</b></sub>
 
 </div>
 
