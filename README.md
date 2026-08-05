@@ -2,15 +2,22 @@
 
 # Meet Mistry (Zarc)
 
-### Full-Stack Developer · Product Builder · Electronics Engineer
-
 I build software for problems I can't stop thinking about.
 
-<img src="https://img.shields.io/badge/WEB-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MOBILE-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DESKTOP-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BACKEND-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EXPERIMENTS-18181B?style=for-the-badge" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌐_FULL_STACK-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/📱_MOBILE-111827?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+<img src="https://img.shields.io/badge/💻_DESKTOP-111827?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🚀_BACKEND-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/🤖_AI-111827?style=for-the-badge&logo=openai&logoColor=10A37F"/>
+<img src="https://img.shields.io/badge/⚡_ELECTRONICS-111827?style=for-the-badge&logo=espressif&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/🔬%20EXPERIMENTS-0F172A?style=for-the-badge&logo=github&logoColor=F59E0B"/>
+
+</p>
 
 <br>
 </div>
@@ -68,7 +75,7 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 ---
 
-### ⚙️ Stack
+### ⚙️ TECH ARSENAL
 
 <div align="center">
 
@@ -129,11 +136,13 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 ### 🔬 Currently
 
 ```text id="n2f7ru"
-BUILDING  → things I want to exist
-LEARNING  → better ways to engineer them
-BREAKING  → things that worked five minutes ago
-FIXING    → the things I broke
-REPEATING indefinitely
+╭────────────────────────────────────────────────╮
+│ BUILDING → things I want to exist              │
+│ LEARNING → better ways to engineer them        │           
+│ BREAKING → things that worked five minutes ago │
+│ FIXING   → the things I broke                  │
+│ REPEATING indefinitely...                      │
+╰────────────────────────────────────────────────╯
 ```
 
 ---
