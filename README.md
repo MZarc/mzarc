@@ -13,9 +13,6 @@ I build software for problems I can't stop thinking about.
 <img src="https://img.shields.io/badge/EXPERIMENTS-18181B?style=for-the-badge" />
 
 <br>
-
-<sub>online as <b>Zarc</b> · building as <b>MZarc</b></sub>
-
 </div>
 
 ---
