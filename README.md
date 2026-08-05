@@ -18,10 +18,7 @@ I build software for problems I can't stop thinking about.
 <img src="https://img.shields.io/badge/🔬%20EXPERIMENTS-0F172A?style=for-the-badge&logo=github&logoColor=F59E0B"/>
 
 </p>
-
-<br>
 </div>
-
 ---
 
 ### ⚡ About
