@@ -144,11 +144,3 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 ```
 
 ---
-
-<div align="center">
-
-### Build. Break. Understand. Rebuild.
-
-**Meet in the real world. `Zarc` on the internet.**
-
-</div>
