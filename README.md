@@ -128,19 +128,3 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 <sub><b>Software is the playground. Engineering is the foundation.</b></sub>
 
 </div>
-
----
-
-### 🔬 Currently
-
-```text id="n2f7ru"
-╭────────────────────────────────────────────────╮
-│ BUILDING → things I want to exist              │
-│ LEARNING → better ways to engineer them        │           
-│ BREAKING → things that worked five minutes ago │
-│ FIXING   → the things I broke                  │
-│ REPEATING indefinitely...                      │
-╰────────────────────────────────────────────────╯
-```
-
----
